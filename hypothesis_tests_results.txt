@@ -1,0 +1,49 @@
+Hypothesis Testing Results
+
+========================================
+
+1. Independent T-Test
+
+Null Hypothesis (H0):
+There is no significant difference between East and West region sales.
+
+Alternative Hypothesis (H1):
+There is a significant difference between East and West region sales.
+
+Test Performed:
+Independent Two-Sample T-Test
+
+Decision Rule:
+If p-value < 0.05 → Reject H0
+If p-value ≥ 0.05 → Fail to Reject H0
+
+Observation:
+The test compares average sales performance between East and West regions.
+
+========================================
+
+2. ANOVA Test
+
+Null Hypothesis (H0):
+All regions have the same average sales.
+
+Alternative Hypothesis (H1):
+At least one region has a different average sales.
+
+Test Performed:
+One-Way ANOVA
+
+Decision Rule:
+If p-value < 0.05 → Reject H0
+If p-value ≥ 0.05 → Fail to Reject H0
+
+Observation:
+The test evaluates whether regional sales performance differs significantly across East, West, North, and South regions.
+
+========================================
+
+Conclusion
+
+The hypothesis tests help determine whether observed differences in sales are statistically significant or occurred due to random variation.
+
+These findings support data-driven business decisions regarding regional performance and sales strategy.
